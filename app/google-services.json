@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606857345276",
+    "project_id": "phucat03-dfce4",
+    "storage_bucket": "phucat03-dfce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606857345276:android:3fb83d86b2959565d1bf79",
+        "android_client_info": {
+          "package_name": "com.example.bdp139"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606857345276-oi26qmola1qqdgpdrlgclhhnderi2712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPwn8TLtzLXL2Kw0CZGBARm6A6PJObbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606857345276-oi26qmola1qqdgpdrlgclhhnderi2712.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

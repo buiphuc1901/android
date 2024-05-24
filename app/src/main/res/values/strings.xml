@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dmth2</string>
+    <string-array name="arraySpinner">
+        <item>Tất cả</item>
+        <item>Không hay</item>
+        <item>Bình thường</item>
+        <item>Siêu hay</item>
+    </string-array>
+</resources>
